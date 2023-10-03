@@ -1,0 +1,40 @@
+C:/Users/Gabriel/Desktop/INFNET/2º Semestre/C#/AT/AT/bin/Debug/AT.exe.config
+C:/Users/Gabriel/Desktop/INFNET/2º Semestre/C#/AT/AT/bin/Debug/AT.exe
+C:/Users/Gabriel/Desktop/INFNET/2º Semestre/C#/AT/AT/bin/Debug/AT.pdb
+C:/Users/Gabriel/Desktop/INFNET/2º Semestre/C#/AT/AT/obj/Debug/AT.csproj.AssemblyReference.cache
+C:/Users/Gabriel/Desktop/INFNET/2º Semestre/C#/AT/AT/obj/Debug/AT.csproj.CoreCompileInputs.cache
+C:/Users/Gabriel/Desktop/INFNET/2º Semestre/C#/AT/AT/obj/Debug/AT.exe
+C:/Users/Gabriel/Desktop/INFNET/2º Semestre/C#/AT/AT/obj/Debug/AT.pdb
+E:/INFNET/C#/2-Outubro/AT/AT/bin/Debug/AT.exe.config
+E:/INFNET/C#/2-Outubro/AT/AT/bin/Debug/AT.exe
+E:/INFNET/C#/2-Outubro/AT/AT/bin/Debug/AT.pdb
+E:/INFNET/C#/2-Outubro/AT/AT/obj/Debug/AT.csproj.AssemblyReference.cache
+E:/INFNET/C#/2-Outubro/AT/AT/obj/Debug/AT.csproj.SuggestedBindingRedirects.cache
+E:/INFNET/C#/2-Outubro/AT/AT/obj/Debug/AT.csproj.CoreCompileInputs.cache
+E:/INFNET/C#/2-Outubro/AT/AT/obj/Debug/AT.exe
+E:/INFNET/C#/2-Outubro/AT/AT/obj/Debug/AT.pdb
+I:/INFNET/C#/2-Outubro/AT/AT/bin/Debug/AT.exe.config
+I:/INFNET/C#/2-Outubro/AT/AT/bin/Debug/AT.exe
+I:/INFNET/C#/2-Outubro/AT/AT/bin/Debug/AT.pdb
+I:/INFNET/C#/2-Outubro/AT/AT/obj/Debug/AT.csproj.AssemblyReference.cache
+I:/INFNET/C#/2-Outubro/AT/AT/obj/Debug/AT.csproj.CoreCompileInputs.cache
+I:/INFNET/C#/2-Outubro/AT/AT/obj/Debug/AT.exe
+I:/INFNET/C#/2-Outubro/AT/AT/obj/Debug/AT.pdb
+I:/INFNET/C#/AT/AT/bin/Debug/AT.exe.config
+I:/INFNET/C#/AT/AT/bin/Debug/AT.exe
+I:/INFNET/C#/AT/AT/bin/Debug/AT.pdb
+I:/INFNET/C#/AT/AT/obj/Debug/AT.csproj.AssemblyReference.cache
+I:/INFNET/C#/AT/AT/obj/Debug/AT.csproj.CoreCompileInputs.cache
+I:/INFNET/C#/AT/AT/obj/Debug/AT.exe
+I:/INFNET/C#/AT/AT/obj/Debug/AT.pdb
+/Volumes/Windows 10/INFNET/C#/AT/AT/obj/Debug/AT.csproj.AssemblyReference.cache
+/Volumes/Windows 10/INFNET/C#/AT/AT/obj/Debug/AT.csproj.CoreCompileInputs.cache
+/Volumes/Windows 10/INFNET/C#/AT/AT/obj/Debug/AT.exe
+/Volumes/Windows 10/INFNET/C#/AT/AT/obj/Debug/AT.pdb
+C:\Users\Gabriel\Desktop\INFNET\AT\AT\obj\Debug\AT.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\INFNET\AT\AT\obj\Debug\AT.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\INFNET\AT\AT\obj\Debug\AT.exe
+C:\Users\Gabriel\Desktop\INFNET\AT\AT\obj\Debug\AT.pdb
+C:\Users\Gabriel\Desktop\INFNET\AT\AT\bin\Debug\AT.exe.config
+C:\Users\Gabriel\Desktop\INFNET\AT\AT\bin\Debug\AT.exe
+C:\Users\Gabriel\Desktop\INFNET\AT\AT\bin\Debug\AT.pdb
